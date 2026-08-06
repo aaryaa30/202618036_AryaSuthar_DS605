@@ -7,3 +7,5 @@ The scraping is conducted using Scrany Spider and from the website for the proje
 This project mainly includes 4 tasks which cover tasks of Data Scraping, Data Preprocessing, Visualization and Analysis and, gathering Insights and Interpretating it.
 
 The scraping of the website is done using Scrany and using various Python libraries and technologies.
+
+The raw and cleaned datasets are in the bookscraper folder

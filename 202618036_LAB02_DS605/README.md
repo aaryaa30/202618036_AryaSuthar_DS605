@@ -1,6 +1,7 @@
 LAB 02-Vectorized Programming with NumPy and Data Wrangling with Pandas
- **Name:**Arya Suthar
-**Student ID:**202618036
+
+Name:Arya Suthar
+Student ID:202618036
 
 Dataset: Titanic Dataset  
 Source:Kaggle Titanic Dataset  

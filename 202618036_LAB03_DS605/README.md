@@ -1,12 +1,12 @@
 Lab 03 — Scikit-learn: Data Preprocessing and Model Performance Evaluation
 * **Name:** Arya Suthar
 * **Student ID:** 202618036
-* 
+
 ## Dataset:
 **Hotel Booking Dataset**
 
 ## Objective
-The objective of this lab is to perform data cleaning and preprocessing, handle missing values and outliers, prevent data leakage, and compare Logistic Regression and Decision Tree classification models using two different preprocessing pipelines.
+Here the objective is to perform data cleaning and preprocessing, handle missing values and outliers, prevent data leakage, and compare Logistic Regression and Decision Tree classification models using two different preprocessing pipelines.
 
 ## Data Preprocessing
 

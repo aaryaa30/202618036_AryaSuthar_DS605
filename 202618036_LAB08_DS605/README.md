@@ -3,9 +3,9 @@
 Name- Arya Suthar\
 Id - 202618036
 
-Dataset : UCI Banknote Authentication (1,372 samples, 4 features, 2 classes)\
+Dataset : UCI Banknote Authentication (1,372 samples, 4 features, 2 classes)
 
-This lab implements Decision Tree and Support Vector Machine both manually and with Scikit-learn and evaluating their performance.\
+This lab implements Decision Tree and Support Vector Machine both manually and with Scikit-learn and evaluating their performance.
 
 ### Results and Observations
 
